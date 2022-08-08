@@ -17,19 +17,19 @@ from plyer import notification
 from pygame import mixer
 import speedtest
 
-#
-# for i in range(3):
-#     pas = input("Enter the password\n")
-#     file_read = open('psw.txt', 'r')
-#     mello_key = file_read.read()
-#     file_read.close()
-#     if pas == mello_key:
-#         print("WELCOME SWYAM! PLEASE SPEAK THAT MAGICAL WORD TO ACTIVATE YOUR ASSISTANT\n")
-#         break
-#     elif pas != mello_key:
-#         print('Try Again!!')
-#     elif i == 2 and pas != mello_key:
-#         exit()
+
+for i in range(3):
+    pas = input("Enter the password\n")
+    file_read = open('psw.txt', 'r')
+    mello_key = file_read.read()
+    file_read.close()
+    if pas == mello_key:
+        print("WELCOME SWYAM! PLEASE SPEAK THAT MAGICAL WORD TO ACTIVATE YOUR ASSISTANT\n")
+        break
+    elif pas != mello_key:
+        print('Try Again!!')
+    elif i == 2 and pas != mello_key:
+        exit()
 
 
 swy_mello = pyttsx3.init()

@@ -81,52 +81,52 @@ def sendMessage():
     if int(a) == 1:  # Harsh
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+919935114194", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 2:  # HARSH2
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+919721472651", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 3:  # MUMMY
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+917007081992", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 4:  # DIDI
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+918808697355", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 5:  # Bhavesh
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+919554938651", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 6:  # Divyansh
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+918115395532", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 7:  # ASHUTOSH
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+918172904888", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 8:   # SAMARTH
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+919648279762", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 9:  # Dipanshu
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+917266836766", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 10:  # Arsh
         speak('What is the message')
         message = take_command()
-        pywhatkit.sendwhatmsg("+917905336341", message, time_hour=strTime, time_min=update)
+        pywhatkit.sendwhatmsg("+91XXXXXXXXX", message, time_hour=strTime, time_min=update)
 
     elif int(a) == 11:  # Vivek
         speak('What is the message')
